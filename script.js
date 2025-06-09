@@ -1,10 +1,10 @@
 const songsList = [
     {
         
-        name: "semua lagu cinta terengar sama",
-        artist: "Hindia",
-        src: "Hindia - semua lagu cinta terdengar sama.mp3",
-        cover: "asset 1.jpg"
+        name: "About You",
+        artist: "The 1975",
+        src: "The 1975 - About You (Official) - nabila.mp3",
+        cover: "about you 3.jpg"
     },
     {
         name: "You'll Be in My Heart",
